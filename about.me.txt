@@ -1,0 +1,3 @@
+Adm : 100230
+Name : Richard Maana
+Project Title: A Web based system leveraging KNN Algorithm to Predict Vulnerability Empowering Outreach to Marginalized Communities in West Pokot.
